@@ -1,0 +1,15 @@
+F:\proyectos clones\abstraindo um jogo de rpg\bin\Debug\net6.0\abstraindo um jogo de rpg.exe
+F:\proyectos clones\abstraindo um jogo de rpg\bin\Debug\net6.0\abstraindo um jogo de rpg.deps.json
+F:\proyectos clones\abstraindo um jogo de rpg\bin\Debug\net6.0\abstraindo um jogo de rpg.runtimeconfig.json
+F:\proyectos clones\abstraindo um jogo de rpg\bin\Debug\net6.0\abstraindo um jogo de rpg.dll
+F:\proyectos clones\abstraindo um jogo de rpg\bin\Debug\net6.0\abstraindo um jogo de rpg.pdb
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.csproj.AssemblyReference.cache
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.GeneratedMSBuildEditorConfig.editorconfig
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.AssemblyInfoInputs.cache
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.AssemblyInfo.cs
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.csproj.CoreCompileInputs.cache
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.dll
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\refint\abstraindo um jogo de rpg.dll
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.pdb
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\abstraindo um jogo de rpg.genruntimeconfig.cache
+F:\proyectos clones\abstraindo um jogo de rpg\obj\Debug\net6.0\ref\abstraindo um jogo de rpg.dll
